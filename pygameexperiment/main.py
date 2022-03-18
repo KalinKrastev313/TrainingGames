@@ -6,6 +6,7 @@ win = pygame.display.set_mode((width, height))
 pygame.display.set_caption("First game")
 
 FPS = 60
+vel = 5
 spaceship_width = 55
 spaceship_height = 44
 yellow_spaceship_image = pygame.image.load(os.path.join('Assets', 'spaceship_yellow.png'))
@@ -18,9 +19,31 @@ red_spaceship = pygame.transform.rotate(red_spaceship, 270)
 
 def draw_window(red, yellow):
     win.fill((255, 255, 255))
-    win.blit(yellow_spaceship, (300, 100))
-    win.blit(red_spaceship, (700, 100))
+    win.blit(yellow_spaceship, (yellow.x, yellow.y))
+    win.blit(red_spaceship, (red.x, red.y))
     pygame.display.update()
+
+
+def yellow_rectangle_movement(keys_pressed, yellow):
+    if keys_pressed[pygame.K_LEFT]:
+        yellow.x -= vel
+    elif keys_pressed[pygame.K_RIGHT]:
+        yellow.x += vel
+    elif keys_pressed[pygame.K_UP]:
+        yellow.y -= vel
+    elif keys_pressed[pygame.K_DOWN]:
+        yellow.y += vel
+
+
+def red_rectangle_movement(keys_pressed, red):
+    if keys_pressed[pygame.K_a]:
+        red.x -= vel
+    elif keys_pressed[pygame.K_d]:
+        red.x += vel
+    elif keys_pressed[pygame.K_w]:
+        red.y -= vel
+    elif keys_pressed[pygame.K_s]:
+        red.y += vel
 
 
 def main():
@@ -34,11 +57,13 @@ def main():
             if event.type == pygame.QUIT:
                 run = False
 
-        draw_window()
+        keys_pressed = pygame.key.get_pressed()
+        yellow_rectangle_movement(keys_pressed, yellow)
+        red_rectangle_movement(keys_pressed, red)
+
+        draw_window(red, yellow)
     pygame.quit()
 
 
 if __name__ == "__main__":
     main()
-
-mamamia
