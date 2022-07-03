@@ -11,6 +11,7 @@ letters_tried = set()
 word_to_guess = input().lower()
 
 letters_guessed = len(word_to_guess) * ["_"]
+print_current_state(letters_guessed, letters_tried, lives)
 
 while "_" in letters_guessed and not lives == 0:
     print("Try another letter")
