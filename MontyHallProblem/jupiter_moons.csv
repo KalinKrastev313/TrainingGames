@@ -1,0 +1,81 @@
+,Order[note 3],Label[note 4],Name,Pronunciation,Image,Abs.magn.,Diameter (km)[42][note 5],Mass(×1016 kg)[49][note 6],Semi-major axis(km)[47],Orbital period (d)[47][note 7],Inclination(°)[47],Eccentricity[42],Discovery year[19],Discoverer[19],Group[note 8]
+0,1,XVI,Metis,/ˈmiːtəs/,,10.5,43(60 × 40 × 34),≈ 3.6,128000,+0.2948(+7h 04m 29s),0.060,0.0002,1979,Synnott(Voyager 1),Inner
+1,2,XV,Adrastea,/ædrəˈstiːə/,,12.0,16.4(20 × 16 × 14),≈ 0.20,129000,+0.2983(+7h 09m 30s),0.030,0.0015,1979,Jewitt(Voyager 2),Inner
+2,3,V,Amalthea,/æməlˈθiːə/[50],,7.1,167(250 × 146 × 128),208,181400,+0.4999(+11h 59m 53s),0.374,0.0032,1892,Barnard,Inner
+3,4,XIV,Thebe,/ˈθiːbiː/,,9.0,98.6(116 × 98 × 84),≈ 43,221900,+0.6761(+16h 13m 35s),1.076,0.0175,1979,Synnott(Voyager 1),Inner
+4,5,I,Io♠,/ˈaɪoʊ/,,−1.7,3643.2(3660 × 3637 × 3631),8931900,421800,+1.7627,0.050[51],0.0041,1610,Galileo,Galilean
+5,6,II,Europa♠,/jʊəˈroʊpə/[52],,−1.4,3121.6,4799800,671100,+3.5255,0.470[51],0.009,1610,Galileo,Galilean
+6,7,III,Ganymede♠,/ˈɡænəmiːd/[53][54],,−2.1,5268.2,14819000,1070400,+7.1556,0.200[51],0.0013,1610,Galileo,Galilean
+7,8,IV,Callisto♠,/kəˈlɪstoʊ/,,−1.2,4820.6,10759000,1882700,+16.690,0.192[51],0.0074,1610,Galileo,Galilean
+8,9,XVIII,Themisto†,/θəˈmɪstoʊ/,,12.9,9,≈ 0.038,7398500,+130.03,43.8,0.34,1975/2000,Kowal & Roemer/Sheppard et al.,Themisto
+9,10,XIII,Leda♣,/ˈliːdə/,,12.7,21.5,≈ 0.52,11146400,+240.93,28.6,0.162,1974,Kowal,Himalia
+10,11,LXXI,Ersa♣,/ˈɜːrsə/,,15.9,3,≈ 0.0014,11401000,+249.23,29.1,0.116,2018,Sheppard et al.,Himalia
+11,12,VI,Himalia♣,/hɪˈmeɪliə/,,7.9,139.6(150 × 120),420,11440600,+250.56,28.1,0.16,1904,Perrine,Himalia
+12,13,LXV,Pandia♣,/pænˈdaɪə/,,16.2,3,≈ 0.0014,11481000,+251.91,29.0,0.179,2017,Sheppard et al.,Himalia
+13,14,X,Lysithea♣,/laɪˈsɪθiə/,,11.2,42.2,≈ 3.9,11700800,+259.20,27.2,0.117,1938,Nicholson,Himalia
+14,15,VII,Elara♣,/ˈɛlərə/,,9.6,79.9,≈ 27,11712300,+259.64,27.9,0.211,1905,Perrine,Himalia
+15,16,LIII,Dia♣,/ˈdaɪə/,,16.3,4,≈ 0.0034,12260300,+278.21,29.0,0.232,2000,Sheppard et al.,Himalia
+16,17,XLVI,Carpo†,/ˈkɑːrpoʊ/,,16.1,3,≈ 0.0014,17042300,+456.29,53.2,0.416,2003,Sheppard et al.,Carpo
+17,18,LXII,Valetudo†,/væləˈtjuːdoʊ/,,17.0,1,≈ 0.000052,18694200,+527.61,34.5,0.217,2016,Sheppard et al.,Valetudo
+18,19,XXXIV,Euporie♦,/ˈjuːpəriː/,,16.3,2,≈ 0.00042,19265800,−550.69,145.7,0.148,2001,Sheppard et al.,Ananke
+19,20,LV,S/2003 J 18♦,,,16.5,2,≈ 0.00042,20336300,−598.12,145.3,0.09,2003,Gladman et al.,Ananke
+20,21,LX,Eupheme♦,/juːˈfiːmiː/,,16.6,2,≈ 0.00042,20768600,−617.73,148.0,0.241,2003,Sheppard et al.,Ananke
+21,22,LII,S/2010 J 2♦,,,17.3,1,≈ 0.000052,20793000,−618.84,148.1,0.248,2010,Veillet,Ananke
+22,23,LIV,S/2016 J 1♦,,,16.8,1,≈ 0.000052,20802600,−618.49,144.7,0.232,2016,Sheppard et al.,Ananke
+23,24,XL,Mneme♦,/ˈniːmiː/,,16.3,2,≈ 0.00042,20821000,−620.07,148.0,0.247,2003,Gladman et al.,Ananke
+24,25,XXXIII,Euanthe♦,/juːˈænθiː/,,16.4,3,≈ 0.0014,20827000,−620.44,148.0,0.239,2001,Sheppard et al.,Ananke
+25,26,,S/2003 J 16♦,,,16.3,2,≈ 0.00042,20882600,−622.88,148.0,0.243,2003,Gladman et al.,Ananke
+26,27,XXII,Harpalyke♦,/hɑːrˈpæləkiː/,,15.9,4,≈ 0.0034,20892100,−623.32,147.7,0.232,2000,Sheppard et al.,Ananke
+27,28,XXXV,Orthosie♦,/ɔːrˈθoʊziː/,,16.7,2,≈ 0.00042,20901000,−622.59,144.3,0.299,2001,Sheppard et al.,Ananke
+28,29,XLV,Helike♦,/ˈhɛləkiː/,,16.0,4,≈ 0.0034,20915700,−626.33,154.4,0.153,2003,Sheppard et al.,Ananke
+29,30,XXVII,Praxidike♦,/prækˈsɪdəkiː/,,14.9,7,≈ 0.018,20935400,−625.39,148.3,0.246,2000,Sheppard et al.,Ananke
+30,31,LXIV,S/2017 J 3♦,,,16.5,2,≈ 0.00042,20941000,−625.60,147.9,0.231,2017,Sheppard et al.,Ananke
+31,32,,S/2003 J 12♦,,,17.0,1,≈ 0.000052,20963100,−627.24,150.0,0.235,2003,Sheppard et al.,Ananke
+32,33,LXVIII,S/2017 J 7♦,,,16.6,2,≈ 0.00042,20964800,−626.56,147.3,0.233,2017,Sheppard et al.,Ananke
+33,34,XLII,Thelxinoe♦,/θɛlkˈsɪnoʊiː/,,16.3,2,≈ 0.00042,20976000,−628.03,150.6,0.228,2003,Sheppard et al.,Ananke
+34,35,XXIX,Thyone♦,/θaɪˈoʊniː/,,15.8,4,≈ 0.0034,20978000,−627.18,147.5,0.233,2001,Sheppard et al.,Ananke
+35,36,,S/2003 J 2♦,,,16.7,2,≈ 0.00042,20997700,−628.79,150.2,0.225,2003,Sheppard et al.,Ananke
+36,37,XII,Ananke♦,/əˈnæŋkiː/,,11.7,29.1,≈ 1.3,21034500,−629.79,147.6,0.237,1951,Nicholson,Ananke
+37,38,XXIV,Iocaste♦,/aɪəˈkæstiː/,,15.4,5,≈ 0.0065,21066700,−631.59,148.8,0.227,2000,Sheppard et al.,Ananke
+38,39,XXX,Hermippe♦,/hərˈmɪpiː/,,15.6,4,≈ 0.0034,21108500,−633.90,150.2,0.219,2001,Sheppard et al.,Ananke
+39,40,LXX,S/2017 J 9♦,,,16.1,3,≈ 0.0014,21768700,−666.11,155.5,0.2,2017,Sheppard et al.,Ananke
+40,41,LVIII,Philophrosyne‡,/fɪləˈfrɒzəniː/,,16.7,2,≈ 0.00042,22604600,−702.54,146.3,0.229,2003,Sheppard et al.,Pasiphae
+41,42,XXXVIII,Pasithee♥,/ˈpæsəθiː/,,16.8,2,≈ 0.00042,22846700,−719.47,164.6,0.27,2001,Sheppard et al.,Carme
+42,43,LXIX,S/2017 J 8♥,,,17.0,1,≈ 0.000052,22849500,−719.76,164.8,0.255,2017,Sheppard et al.,Carme
+43,44,,S/2003 J 24♥,,,16.6,3,≈ 0.0014,22887400,−721.60,164.5,0.259,2003,Sheppard et al.,Carme
+44,45,XXXII,Eurydome‡,/jʊəˈrɪdəmiː/,,16.2,3,≈ 0.0014,22899000,−717.31,149.1,0.294,2001,Sheppard et al.,Pasiphae
+45,46,LVI,S/2011 J 2‡,,,16.8,1,≈ 0.000052,22909200,−718.32,151.9,0.355,2011,Sheppard et al.,Pasiphae
+46,47,,S/2003 J 4‡,,,16.7,2,≈ 0.00042,22926500,−718.10,148.2,0.328,2003,Sheppard et al.,Pasiphae
+47,48,XXI,Chaldene♥,/kælˈdiːniː/,,16.0,4,≈ 0.0034,22930500,−723.71,164.7,0.265,2000,Sheppard et al.,Carme
+48,49,LXIII,S/2017 J 2♥,,,16.4,2,≈ 0.00042,22953200,−724.71,164.5,0.272,2017,Sheppard et al.,Carme
+49,50,XXVI,Isonoe♥,/aɪˈsɒnoʊiː/,,16.0,4,≈ 0.0034,22981300,−726.27,164.8,0.249,2000,Sheppard et al.,Carme
+50,51,XLIV,Kallichore♥,/kəˈlɪkəriː/,,16.4,2,≈ 0.00042,23021800,−728.26,164.8,0.252,2003,Sheppard et al.,Carme
+51,52,XXV,Erinome♥,/ɛˈrɪnəmiː/ (?),,16.0,3,≈ 0.0014,23032900,−728.48,164.4,0.276,2000,Sheppard et al.,Carme
+52,53,XXXVII,Kale♥,/ˈkeɪliː/,,16.4,2,≈ 0.00042,23052600,−729.64,164.6,0.262,2001,Sheppard et al.,Carme
+53,54,LVII,Eirene♥,/aɪˈriːniː/,,15.8,4,≈ 0.0034,23055800,−729.84,164.6,0.258,2003,Sheppard et al.,Carme
+54,55,XXXI,Aitne♥,/ˈeɪtniː/,,16.0,3,≈ 0.0014,23064400,−730.10,164.6,0.277,2001,Sheppard et al.,Carme
+55,56,XLVII,Eukelade♥,/juːˈkɛlədiː/,,15.9,4,≈ 0.0034,23067400,−730.30,164.6,0.277,2003,Sheppard et al.,Carme
+56,57,XLIII,Arche♥,/ˈɑːrkiː/,,16.2,3,≈ 0.0014,23097800,−731.88,164.6,0.261,2002,Sheppard et al.,Carme
+57,58,XX,Taygete♥,/teɪˈɪdʒətiː/,,15.5,5,≈ 0.0065,23108000,−732.45,164.7,0.253,2000,Sheppard et al.,Carme
+58,59,LXXII,S/2011 J 1♥,,,16.7,2,≈ 0.00042,23124500,−733.21,164.6,0.271,2011,Sheppard et al.,Carme
+59,60,XI,Carme♥,/ˈkɑːrmiː/,,10.6,46.7,≈ 5.3,23144400,−734.19,164.6,0.256,1938,Nicholson,Carme
+60,61,L,Herse♥,/ˈhɜːrsiː/,,16.5,2,≈ 0.00042,23150500,−734.52,164.4,0.262,2003,Gladman et al.,Carme
+61,62,LXI,S/2003 J 19♥,,,16.6,2,≈ 0.00042,23156400,−734.78,164.7,0.265,2003,Gladman et al.,Carme
+62,63,LI,S/2010 J 1♥,,,16.4,2,≈ 0.00042,23189800,−736.51,164.5,0.252,2010,Jacobson et al.,Carme
+63,64,,S/2003 J 9♥,,,16.9,1,≈ 0.000052,23199400,−736.86,164.8,0.263,2003,Sheppard et al.,Carme
+64,65,LXVI,S/2017 J 5♥,,,16.5,2,≈ 0.00042,23206200,−737.28,164.8,0.257,2017,Sheppard et al.,Carme
+65,66,LXVII,S/2017 J 6‡,,,16.4,2,≈ 0.00042,23245300,−733.99,149.7,0.336,2017,Sheppard et al.,Pasiphae
+66,67,XXIII,Kalyke♥,/ˈkæləkiː/,,15.4,6.9,≈ 0.017,23302600,−742.02,164.8,0.26,2000,Sheppard et al.,Carme
+67,68,XXXIX,Hegemone‡,/həˈdʒɛməniː/,,15.9,3,≈ 0.0014,23348700,−739.81,152.6,0.358,2003,Sheppard et al.,Pasiphae
+68,69,VIII,Pasiphae‡,/pəˈsɪfeɪiː/,,10.1,57.8,≈ 10,23468200,−743.61,148.4,0.412,1908,Melotte,Pasiphae
+69,70,XXXVI,Sponde‡,/ˈspɒndiː/,,16.7,2,≈ 0.00042,23543300,−748.29,149.3,0.322,2001,Sheppard et al.,Pasiphae
+70,71,(lost),S/2003 J 10♥,,,16.8,2,≈ 0.00042,23576300,−755.43,164.4,0.264,2003,Sheppard et al.,Carme?
+71,72,XIX,Megaclite‡,/ˌmɛɡəˈklaɪtiː/,,15.0,5,≈ 0.0065,23644600,−752.86,149.8,0.421,2000,Sheppard et al.,Pasiphae
+72,73,XLVIII,Cyllene‡,/səˈliːniː/,,16.3,2,≈ 0.00042,23654700,−751.97,146.8,0.419,2003,Sheppard et al.,Pasiphae
+73,74,IX,Sinope‡,/səˈnoʊpiː/,,11.1,35,≈ 2.2,23683900,−758.85,157.3,0.264,1914,Nicholson,Pasiphae
+74,75,LIX,S/2017 J 1‡,,,16.6,2,≈ 0.00042,23744800,−756.41,145.8,0.328,2017,Sheppard et al.,Pasiphae
+75,76,XLI,Aoede‡,/eɪˈiːdiː/,,15.6,4,≈ 0.0034,23778200,−761.46,155.7,0.436,2003,Sheppard et al.,Pasiphae
+76,77,XXVIII,Autonoe‡,/ɔːˈtɒnoʊiː/,,15.5,4,≈ 0.0034,23792500,−761.00,150.8,0.33,2001,Sheppard et al.,Pasiphae
+77,78,XVII,Callirrhoe‡,/kəˈlɪroʊiː/,,13.9,9.6,≈ 0.046,23795500,−758.86,145.1,0.297,1999,Scotti et al.,Pasiphae
+78,79,,S/2003 J 23‡,,,16.6,2,≈ 0.00042,23829300,−760.00,144.7,0.313,2003,Sheppard et al.,Pasiphae
+79,80,XLIX,Kore‡,/ˈkɔːriː/,,16.6,2,≈ 0.00042,24205200,−776.76,141.5,0.328,2003,Sheppard et al.,Pasiphae
